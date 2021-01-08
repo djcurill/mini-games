@@ -3,7 +3,7 @@ A host of mini-blogs (a.k.a. mini-games) used to hone my python programming skil
 
 # The Rules
 ---
-1. Under no circumstances am I allowed to use any external python packages other than the following (if you don't believe my, checkout the environment.yml file for proof):
+1. Under no circumstances am I allowed to use any external python packages other than the following:
     * [NumPy](https://numpy.org/) for all matrix math that I am too lazy to program myself
     * [matplotlib](https://matplotlib.org/) for all plotting purposes
 2. All solutions will be explained via notebooks (no source code files). This is mainly to keep each mini-blog independent of each other so that the repo is easy to maintain.
